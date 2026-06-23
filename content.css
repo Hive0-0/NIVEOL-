@@ -3,7 +3,7 @@
     --font-accent: "TikTok Sans", "Manrope", Arial, sans-serif;
 
     --color-white: #ffffff;
-    --color-black: #050505;
+    --color-black: #050505; 
     --color-text: #111111;
     --color-muted: #9b9b9b;
 
@@ -213,7 +213,7 @@ img {
                     rgba(226, 235, 244, 0.16) 38%,
                     rgba(226, 235, 244, 0.08) 100%
             ),
-            url("./assets/images/home-hero.png");
+            url("img/home-hero.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -553,7 +553,7 @@ body.page-intro {
                     rgba(255, 255, 255, 0.14) 0%,
                     rgba(255, 255, 255, 0.06) 100%
             ),
-            url("./assets/images/collections-hero.png");
+            url("img/collections-hero.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
